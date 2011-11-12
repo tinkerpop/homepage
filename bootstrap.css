@@ -1768,7 +1768,7 @@ a.menu:after, .dropdown-toggle:after {
 }
 .hero-unit {
   background-color: #f5f5f5;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
   padding: 20px;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
@@ -1955,9 +1955,9 @@ footer {
   box-shadow: none;
 }
 .btn.large {
-  font-size: 15px;
+  font-size: 13px;
   line-height: normal;
-  padding: 9px 14px 9px;
+  padding: 7px 12px 7px;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
